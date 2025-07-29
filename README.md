@@ -1,6 +1,8 @@
 # Solutions of Full Stack Deep Learning - Course 2022
 
-This repo contains the **SOLUTIONS** in Jupyter notebook format of exercises/labs of the [Full Stack Deep Learning - DSDL 2022](https://fullstackdeeplearning.com/course/2022/) course. The solution notebooks are named `solution_<name_of_the_notebook>.ipynb`. For example, the solution to the notebook `lab01_pytorch.ipynb` is named `solution_lab01_pytorch.ipynb`. Shout out to all the lectures and TAs for the amazing resources!
+My solutions for the lab sessions of the [Full Stack Deep Learning (FSDL) 2022 course](https://fullstackdeeplearning.com/course/2022). 
+
+I have decided to fork from [honghanhh](https://github.com/honghanhh/fsdl_2022_solution) to copy his amazingly well-structured README below. 
 
 ## Couse Structure
 
@@ -149,8 +151,3 @@ This lecture covers the ethical dimensions of building ML-powered products: past
 - [x] [Lab](https://colab.research.google.com/github/full-stack-deep-learning/fsdl-text-recognizer-2022-labs/blob/main/lab08/notebooks/lab08_monitoring.ipynb)
 - [] [Solution]()
 
-## Disclaimer
-
-The solutions here are **ONLY FOR REFERENCE** to guide you if you get stuck somewhere. Highly recommended to try out the yourselves first before referring to the solutions here.
-
-Feel free to discuss further with me on [![Linkedin: hognhanhh](https://img.shields.io/badge/-HongHanh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thi-hong-hanh-tran-0b886212a/)](https://www.linkedin.com/in/thi-hong-hanh-tran-0b886212a/).
